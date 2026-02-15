@@ -124,15 +124,8 @@ todo-redux/
 ```
 
 ---
-
-## 🎯 Future Improvements
-
-- 🌙 Dark Mode
-- 🔄 Drag & Drop Reordering
-- 🌐 Backend Integration (MERN Stack)
-- 🔐 Authentication System
-
----
+ 
+ 
 
 ## 👨‍💻 Author
 
